@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & ML enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jayaydv12-stack&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎓 I'm a student passionate about building full-stack web apps and exploring AI/ML
 - 🌱 Currently deepening my knowledge in **Deep Learning & System Design**
 - 💬 Ask me about **React, Node.js, REST APIs, or Machine Learning**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jaya-yadav-206740348/) &nbsp;|&nbsp; 🌐 [Portfolio]()
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jaya-yadav-206740348/) &nbsp;|&nbsp; 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
 
@@ -48,17 +48,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Jaya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayaydv12-stack&show_icons=true&theme=tokyonight" alt="Jaya's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaydv12-stack&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayaydv12-stack&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/YOUR_USERNAME">Jaya Yadav</a></p>
+<p align="center">⭐️ From <a href="https://github.com/jayaydv12-stack">Jaya Yadav</a></p>
